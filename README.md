@@ -7,3 +7,4 @@ A modular GLSL shader system for customizing and selectively hiding Minecraft's 
 UI uiScoreboardList = makeUI(SCOREBOARD_LIST, vec4(0.00, 0.00, 0.00, 0.0), true, true);
 UI name = makeUI(type, color (vec4), visible, enabled);
 ```
+![](https://github.com/therealthread/Minecraft-UI-Override-With-Vanilla-Shader/blob/main/ezgif-1b9cb890619f5f.gif?raw=true)
