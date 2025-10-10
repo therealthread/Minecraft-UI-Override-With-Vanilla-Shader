@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 42,
+    "supported_formats": [
+      42,
+      64
+    ],
+    "description": "§6By Thread (Anemys)"
+  }
+}
